@@ -24,7 +24,7 @@ This project is an interactive Hospital Emergency Room Dashboard built using Mic
 - Year and Month Filters
 
 ## 📷 Dashboard Preview
-(Add your Dashboard Screenshot.jpg here)
+![Dashboard Preview](DashboardScreenshot.jpg)
 
 ## 📁 Files Included
 - Hospital Emergency Room Dashboard.xlsx
